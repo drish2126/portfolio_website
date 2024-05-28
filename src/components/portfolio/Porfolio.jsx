@@ -6,7 +6,7 @@ const items=[
     {
         id:1,
         title: "React Commerce",
-        img:"/delivery.webp",
+        img:"./delivery.webp",
         desc:"react commerce website",
     },
     {

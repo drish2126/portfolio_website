@@ -56,7 +56,7 @@ const Hero=()=> {
             Student Learner
         </motion.div>
             <div className="imageContainer">
-                <img src="./dri.png" alt=""/>
+                <img src="./drixo.png" alt=""/>
             </div>
         </div>
     )
