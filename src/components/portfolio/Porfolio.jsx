@@ -5,27 +5,9 @@ import { useRef } from "react";
 const items=[
     {
         id:1,
-        title: "React Commerce",
-        img:"./delivery.webp",
-        desc:"react commerce website",
-    },
-    {
-        id:2,
         title: "food delivery app",
         img:"",
         desc:"delivery app website",
-    },
-    {
-        id:3,
-        title: "xoxo app",
-        img:"",
-        desc:"",
-    },
-    {
-        id:4,
-        title: "React Commerce",
-        img:"",
-        desc:"",
     },
 ];
 
